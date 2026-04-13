@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/CODERAKS11/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
