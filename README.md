@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CODERAKS11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/CODERAKS11/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CODERAKS11/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CODERAKS11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/CODERAKS11/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/CODERAKS11/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CODERAKS11/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CODERAKS11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CODERAKS11/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
