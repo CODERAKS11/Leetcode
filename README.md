@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CODERAKS11/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CODERAKS11/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CODERAKS11/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CODERAKS11/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
