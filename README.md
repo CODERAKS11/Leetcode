@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/CODERAKS11/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/CODERAKS11/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/CODERAKS11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Trie
 |  |
 | ------- |
