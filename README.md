@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CODERAKS11/Leetcode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/CODERAKS11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/CODERAKS11/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Trie
 |  |
 | ------- |
