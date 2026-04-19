@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CODERAKS11/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CODERAKS11/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -132,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
