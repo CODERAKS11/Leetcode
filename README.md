@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/CODERAKS11/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CODERAKS11/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/CODERAKS11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CODERAKS11/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CODERAKS11/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CODERAKS11/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/CODERAKS11/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CODERAKS11/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
