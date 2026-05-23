@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/CODERAKS11/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/CODERAKS11/Leetcode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0045-jump-game-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/CODERAKS11/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CODERAKS11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/CODERAKS11/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/CODERAKS11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CODERAKS11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/CODERAKS11/Leetcode/tree/master/0079-word-search) |
@@ -186,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/CODERAKS11/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
