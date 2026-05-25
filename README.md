@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/CODERAKS11/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CODERAKS11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/CODERAKS11/Leetcode/tree/master/0796-rotate-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CODERAKS11/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/CODERAKS11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CODERAKS11/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -200,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
