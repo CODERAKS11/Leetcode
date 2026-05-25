@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/CODERAKS11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/CODERAKS11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/CODERAKS11/Leetcode/tree/master/0796-rotate-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/CODERAKS11/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/CODERAKS11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/CODERAKS11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CODERAKS11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/CODERAKS11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
