@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CODERAKS11/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CODERAKS11/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/CODERAKS11/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/CODERAKS11/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/CODERAKS11/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/CODERAKS11/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CODERAKS11/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Depth-First Search
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/CODERAKS11/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/CODERAKS11/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/CODERAKS11/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
