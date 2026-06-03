@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CODERAKS11/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/CODERAKS11/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/CODERAKS11/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CODERAKS11/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/CODERAKS11/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/CODERAKS11/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/CODERAKS11/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/CODERAKS11/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0039-combination-sum) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/CODERAKS11/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/CODERAKS11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/CODERAKS11/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
