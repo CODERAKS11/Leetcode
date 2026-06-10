@@ -24,16 +24,18 @@ public:
             ListNode* grpStart = prevGrpEnd -> next;
             ListNode* curr = grpStart;
             ListNode* prev = nullptr;
+            
             for(int i = 0; i < k; i++){
                 ListNode* nextNode = curr -> next;
                 curr -> next = prev;
                 prev = curr;
                 curr = nextNode;
             }
+
             prevGrpEnd -> next = prev;
             grpStart -> next = curr;
             prevGrpEnd = grpStart;
         }
-        
+        return dummy -> next;
     }
 };
