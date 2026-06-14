@@ -1,24 +1,23 @@
 class Solution {
 public:
-    void generate(vector<int>& candidates, int target, long long sum, vector<int> &temp,vector<vector<int>> &ans, int idx){
-        if(idx == candidates.size() || sum == target){
-            if(sum == target) ans.push_back(temp);
+    void helper(vector<int>& nums, int target, int ind, vector<int> &temp, vector<vector<int>> &ans, int sum){
+        if(sum == target){
+            ans.push_back(temp);
             return;
         }
         
-        if(sum < target){
-            temp.push_back(candidates[idx]);
-            generate(candidates, target, sum + candidates[idx], temp, ans, idx);
+        if(sum > target) return;
+
+        for(int i = ind; i < nums.size(); i++){
+            temp.push_back(nums[i]);
+            helper(nums, target, i , temp, ans, sum + nums[i]);
             temp.pop_back();
         }
-        
-        generate(candidates, target, sum, temp, ans, idx + 1);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> temp;
         vector<vector<int>> ans;
-        int sum = 0;
-        generate(candidates, target, sum, temp, ans, 0);
+        vector<int> temp;
+        helper(candidates, target, 0, temp, ans, 0);
         return ans;
     }
 };
