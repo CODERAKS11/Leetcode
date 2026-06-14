@@ -1,34 +1,36 @@
 class Solution {
 public:
-    void generate(vector<int>& candidates, int target, int sum,
-                  vector<int> &temp, vector<vector<int>> &ans, int idx){
-
-        // Base case
+    // void helper(vector<int>& candidates, int target, int ind, int sum, vector<int> &temp, vector<vector<int>> &ans){
+    //     if(sum == target){
+    //         ans.push_back(temp);
+    //         return;
+    //     }
+    //     if(ind == candidates.size()) return;
+    //     if(sum > target) return;
+    //     temp.push_back(candidates[ind]);
+    //     helper(candidates, target, ind + 1, sum + candidates[ind], temp, ans);
+    //     temp.pop_back();
+    //     helper(candidates, target, ind + 1, sum, temp, ans);
+    // }
+    void helper(vector<int>& candidates, int target, int ind, int sum, vector<int> &temp, vector<vector<int>> &ans){
         if(sum == target){
             ans.push_back(temp);
             return;
         }
-
-        for(int i = idx; i < candidates.size(); i++){
-
-            // Skip duplicates
-            if(i > idx && candidates[i] == candidates[i-1]) continue;
-
-            // Pruning
-            if(sum + candidates[i] > target) break;
-
+        // if(ind == candidates.size()) return;
+        if(sum > target) return;
+        for(int i = ind; i < candidates.size(); i++){
+            if(i > ind && candidates[i] == candidates[i-1]) continue;
             temp.push_back(candidates[i]);
-            generate(candidates, target, sum + candidates[i], temp, ans, i + 1);
+            helper(candidates, target, i + 1, sum + candidates[i], temp, ans);
             temp.pop_back();
         }
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
         vector<vector<int>> ans;
         vector<int> temp;
-
-        generate(candidates, target, 0, temp, ans, 0);
+        sort(candidates.begin(), candidates.end());
+        helper(candidates, target, 0, 0, temp, ans);
         return ans;
     }
 };
