@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/CODERAKS11/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,4 +321,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CODERAKS11/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
