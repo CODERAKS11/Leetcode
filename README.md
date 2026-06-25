@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/CODERAKS11/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/CODERAKS11/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/CODERAKS11/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CODERAKS11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/CODERAKS11/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/CODERAKS11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CODERAKS11/Leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -297,10 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
