@@ -9,27 +9,26 @@ public:
         mpp['C'] = 100;
         mpp['D'] = 500;
         mpp['M'] = 1000;
-        int ans = 0;
         int n = s.size();
-        int curr = n-2, prev = n-1;
-        while(curr >= 0 && prev >= 0){
+        int prev = n - 1;
+        int curr = n - 2;
+        int ans = 0;
+
+        while(prev >= 0 && curr >= 0){
             char prevChar = s[prev];
             char currChar = s[curr];
             int digit = 0;
-            if((prevChar == 'V' && currChar == 'I') 
-            || (prevChar == 'X' && currChar == 'I')){
+            if((currChar == 'I' && prevChar == 'V') || (currChar == 'I' && prevChar == 'X')){
                 digit = mpp[prevChar] - 1;
                 prev -= 2;
                 curr -= 2;
             }
-            else if((prevChar == 'L' && currChar == 'X') 
-            || (prevChar == 'C' && currChar == 'X')){
+            else if((currChar == 'X' && prevChar == 'L') || (currChar == 'X' && prevChar == 'C')){
                 digit = mpp[prevChar] - 10;
                 prev -= 2;
                 curr -= 2;
             }
-            else if((prevChar == 'D' && currChar == 'C') 
-            || (prevChar == 'M' && currChar == 'C')){
+            else if((currChar == 'C' && prevChar == 'D') || (currChar == 'C' && prevChar == 'M')){
                 digit = mpp[prevChar] - 100;
                 prev -= 2;
                 curr -= 2;
@@ -41,9 +40,7 @@ public:
             }
             ans += digit;
         }
-        if(prev >= 0){
-            return ans + mpp[s[prev]];
-        }
+        if(prev >= 0) ans += mpp[s[prev]];
         return ans;
     }
 };
