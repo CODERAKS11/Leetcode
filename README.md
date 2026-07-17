@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CODERAKS11/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1306-jump-game-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CODERAKS11/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CODERAKS11/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/CODERAKS11/Leetcode/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -449,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CODERAKS11/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CODERAKS11/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CODERAKS11/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
