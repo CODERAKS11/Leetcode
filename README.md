@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CODERAKS11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CODERAKS11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/CODERAKS11/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0788-rotated-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CODERAKS11/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/CODERAKS11/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/CODERAKS11/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/CODERAKS11/Leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/CODERAKS11/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CODERAKS11/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/CODERAKS11/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CODERAKS11/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CODERAKS11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
