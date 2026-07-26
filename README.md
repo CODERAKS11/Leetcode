@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/CODERAKS11/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/CODERAKS11/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CODERAKS11/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/CODERAKS11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/CODERAKS11/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CODERAKS11/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0788-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/CODERAKS11/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CODERAKS11/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
