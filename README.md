@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/CODERAKS11/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/CODERAKS11/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/CODERAKS11/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/CODERAKS11/Leetcode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CODERAKS11/Leetcode/tree/master/0231-power-of-two) |
 | [0788-rotated-digits](https://github.com/CODERAKS11/Leetcode/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/CODERAKS11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/CODERAKS11/Leetcode/tree/master/1922-count-good-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CODERAKS11/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CODERAKS11/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/CODERAKS11/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
